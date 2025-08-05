@@ -265,64 +265,78 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...ularized in \cite{ashish\_2017\_attention}
-                                                  , with policy gradient str...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.55 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , to selectively encode te...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 55.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
-nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
-/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...rchitecture \cite{ashish\_2017\_attention}
-                                                  . Transformers, although i...
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.81 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , revolutionized sequence ...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 81.
+Package natbib Warning: Citation `mnih_2015_dqn' on page 1 undefined on input l
+ine 55.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 61.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc}]
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 70.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 70.
+
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 78.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 78.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 80.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.91 ...itecture in \cite{ashish\_2017\_attention}
-                                                  , is critical in providing...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 3 undefined on
+ input line 90.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 3 undefined on input line 91.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 3 undefined on inp
+ut line 92.
+
+[3]
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 122.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 126.
 
-LaTeX Warning: File `images/training_curves.pdf' not found on input line 131.
+
+LaTeX Warning: File ` images/training_curves.pdf ' not found on input line 132.
+
 
 
 ! Package pdftex.def Error: File `images/training_curves.pdf' not found: using 
@@ -332,13 +346,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 ....7\linewidth]{images/training_curves.pdf}
+l.132 ...\linewidth]{ images/training_curves.pdf }
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
 
-LaTeX Warning: File `images/attention_visualization.pdf' not found on input lin
-e 137.
+LaTeX Warning: File ` images/attention_visualization.pdf ' not found on input l
+ine 138.
 
 
 ! Package pdftex.def Error: File `images/attention_visualization.pdf' not found
@@ -348,11 +362,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 ...idth]{images/attention_visualization.pdf}
+l.138 ...th]{ images/attention_visualization.pdf }
                                                   
 
-LaTeX Warning: File `images/performance_comparison.pdf' not found on input line
- 143.
+LaTeX Warning: File ` images/performance_comparison.pdf ' not found on input li
+ne 144.
 
 
 ! Package pdftex.def Error: File `images/performance_comparison.pdf' not found:
@@ -362,29 +376,27 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 ...width]{images/performance_comparison.pdf}
+l.144 ...dth]{ images/performance_comparison.pdf }
                                                   
 
 Underfull \vbox (badness 6157) has occurred while \output is active [5]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.151 ...utlined in \cite{ashish\_2017\_attention}
-                                                   alongside techniques from...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 6 undefined on
+ input line 152.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 6 undefined on input line 151.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 6 undefined on inp
+ut line 152.
 
 
 Package natbib Warning: Citation `airas2025' on page 6 undefined on input line 
-157.
+158.
 
 No file paper.bbl.
 
 Package natbib Warning: There were undefined citations.
 
-[6] (./paper.aux)
+[6] [7] (./paper.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -397,40 +409,21 @@ Package rerunfilecheck Warning: File `paper.out' has changed.
 (see the transcript file for additional information)</usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (6 pages, 88169 bytes).
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on paper.pdf (7 pages, 105110 bytes).
 Transcript written on paper.log.
 This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
 The top-level auxiliary file: paper.aux
-White space in argument---line 5 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
-White space in argument---line 6 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
-White space in argument---line 10 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
-White space in argument---line 11 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
-White space in argument---line 18 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
-White space in argument---line 30 of file paper.aux
- : \citation{ashish\protect
- :                          \T1\textunderscore 2017\protect \T1\textunderscore attention}
-I'm skipping whatever remains of this command
 The style file: iclr2024_conference.bst
 Database file #1: references.bib
-(There were 6 error messages)
+Warning--I didn't find a database entry for "ashish_2017_attention"
+Warning--I didn't find a database entry for "schulman_2017_ppo"
+Warning--I didn't find a database entry for "mnih_2015_dqn"
+(There were 3 warnings)
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
 entering extended mode
@@ -699,64 +692,78 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...ularized in \cite{ashish\_2017\_attention}
-                                                  , with policy gradient str...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.55 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , to selectively encode te...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 55.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
-nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
-/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...rchitecture \cite{ashish\_2017\_attention}
-                                                  . Transformers, although i...
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.81 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , revolutionized sequence ...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 81.
+Package natbib Warning: Citation `mnih_2015_dqn' on page 1 undefined on input l
+ine 55.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 61.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc}]
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 70.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 70.
+
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 78.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 78.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 80.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.91 ...itecture in \cite{ashish\_2017\_attention}
-                                                  , is critical in providing...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 3 undefined on
+ input line 90.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 3 undefined on input line 91.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 3 undefined on inp
+ut line 92.
+
+[3]
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 122.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 126.
 
-LaTeX Warning: File `images/training_curves.pdf' not found on input line 131.
+
+LaTeX Warning: File ` images/training_curves.pdf ' not found on input line 132.
+
 
 
 ! Package pdftex.def Error: File `images/training_curves.pdf' not found: using 
@@ -766,13 +773,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 ....7\linewidth]{images/training_curves.pdf}
+l.132 ...\linewidth]{ images/training_curves.pdf }
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
 
-LaTeX Warning: File `images/attention_visualization.pdf' not found on input lin
-e 137.
+LaTeX Warning: File ` images/attention_visualization.pdf ' not found on input l
+ine 138.
 
 
 ! Package pdftex.def Error: File `images/attention_visualization.pdf' not found
@@ -782,11 +789,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 ...idth]{images/attention_visualization.pdf}
+l.138 ...th]{ images/attention_visualization.pdf }
                                                   
 
-LaTeX Warning: File `images/performance_comparison.pdf' not found on input line
- 143.
+LaTeX Warning: File ` images/performance_comparison.pdf ' not found on input li
+ne 144.
 
 
 ! Package pdftex.def Error: File `images/performance_comparison.pdf' not found:
@@ -796,26 +803,23 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 ...width]{images/performance_comparison.pdf}
+l.144 ...dth]{ images/performance_comparison.pdf }
                                                   
 
 Underfull \vbox (badness 6157) has occurred while \output is active [5]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.151 ...utlined in \cite{ashish\_2017\_attention}
-                                                   alongside techniques from...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 6 undefined on
+ input line 152.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 6 undefined on input line 151.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 6 undefined on inp
+ut line 152.
 
 
 Package natbib Warning: Citation `airas2025' on page 6 undefined on input line 
-157.
+158.
 
-(./paper.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active [6])
+(./paper.bbl [6])
 
 Package natbib Warning: There were undefined citations.
 
@@ -828,10 +832,12 @@ Package natbib Warning: Citation(s) may have changed.
 (see the transcript file for additional information)</usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (7 pages, 89981 bytes).
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on paper.pdf (7 pages, 106590 bytes).
 Transcript written on paper.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -1101,64 +1107,78 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.50 ...ularized in \cite{ashish\_2017\_attention}
-                                                  , with policy gradient str...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 50.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.55 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , to selectively encode te...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 50.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 1 undefined on input line 55.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd) [1{/var/lib/texmf/fo
-nts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
-/base/8r.enc}]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.71 ...rchitecture \cite{ashish\_2017\_attention}
-                                                  . Transformers, although i...
+Package natbib Warning: Citation `ashish_2017_attention' on page 1 undefined on
+ input line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 71.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.81 ...troduced in \cite{ashish\_2017\_attention}
-                                                  , revolutionized sequence ...
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 55.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 2 undefined on input line 81.
+Package natbib Warning: Citation `mnih_2015_dqn' on page 1 undefined on input l
+ine 55.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd)
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 1 undefined on inp
+ut line 61.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/base/8r.enc}]
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 70.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 70.
+
+
+Package natbib Warning: Citation `mnih_2015_dqn' on page 2 undefined on input l
+ine 78.
+
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 2 undefined on inp
+ut line 78.
+
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 2 undefined on
+ input line 80.
 
 [2]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.91 ...itecture in \cite{ashish\_2017\_attention}
-                                                  , is critical in providing...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 3 undefined on
+ input line 90.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 3 undefined on input line 91.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 3 undefined on inp
+ut line 92.
+
+[3]
+
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 122.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active [3]
+Package natbib Warning: Citation `schulman_2017_ppo' on page 4 undefined on inp
+ut line 126.
 
-LaTeX Warning: File `images/training_curves.pdf' not found on input line 131.
+
+LaTeX Warning: File ` images/training_curves.pdf ' not found on input line 132.
+
 
 
 ! Package pdftex.def Error: File `images/training_curves.pdf' not found: using 
@@ -1168,13 +1188,13 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.131 ....7\linewidth]{images/training_curves.pdf}
+l.132 ...\linewidth]{ images/training_curves.pdf }
                                                   
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 Underfull \vbox (badness 10000) has occurred while \output is active [4]
 
-LaTeX Warning: File `images/attention_visualization.pdf' not found on input lin
-e 137.
+LaTeX Warning: File ` images/attention_visualization.pdf ' not found on input l
+ine 138.
 
 
 ! Package pdftex.def Error: File `images/attention_visualization.pdf' not found
@@ -1184,11 +1204,11 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 ...idth]{images/attention_visualization.pdf}
+l.138 ...th]{ images/attention_visualization.pdf }
                                                   
 
-LaTeX Warning: File `images/performance_comparison.pdf' not found on input line
- 143.
+LaTeX Warning: File ` images/performance_comparison.pdf ' not found on input li
+ne 144.
 
 
 ! Package pdftex.def Error: File `images/performance_comparison.pdf' not found:
@@ -1198,22 +1218,19 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 ...width]{images/performance_comparison.pdf}
+l.144 ...dth]{ images/performance_comparison.pdf }
                                                   
 
 Underfull \vbox (badness 6157) has occurred while \output is active [5]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \protect 
-l.151 ...utlined in \cite{ashish\_2017\_attention}
-                                                   alongside techniques from...
+
+Package natbib Warning: Citation `ashish_2017_attention' on page 6 undefined on
+ input line 152.
 
 
-Package natbib Warning: Citation `ashish\T1\textunderscore2017\T1\textunderscor
-eattention' on page 6 undefined on input line 151.
+Package natbib Warning: Citation `schulman_2017_ppo' on page 6 undefined on inp
+ut line 152.
 
-(./paper.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active [6])
+(./paper.bbl [6])
 
 Package natbib Warning: There were undefined citations.
 
@@ -1221,8 +1238,10 @@ Package natbib Warning: There were undefined citations.
 (see the transcript file for additional information)</usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
-/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on paper.pdf (7 pages, 90065 bytes).
+e1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on paper.pdf (7 pages, 106659 bytes).
 Transcript written on paper.log.
